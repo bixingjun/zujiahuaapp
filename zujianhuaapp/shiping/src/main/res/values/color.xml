@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- youku ad icon background color -->
+    <color name="xadsdk_frame_bg">#e5e5e5</color>
+</resources>
